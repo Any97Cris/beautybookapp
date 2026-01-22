@@ -1,0 +1,18 @@
+{
+    "name": "beautybook/app",
+    "description": "BeautyBook - Sistema de agendamento para salões de beleza",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "BeautyBook\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Crisciany Souza"
+        }
+    ],
+    "require": {
+        "php": ">=8.2"
+    }
+}

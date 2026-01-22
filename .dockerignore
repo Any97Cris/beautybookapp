@@ -1,0 +1,12 @@
+.git
+.gitignore
+.env
+.env.*
+vendor/
+node_modules/
+*.md
+.DS_Store
+.idea/
+.vscode/
+*.log
+docker/
